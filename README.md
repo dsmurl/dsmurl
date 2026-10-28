@@ -23,18 +23,18 @@ transcripts into scoped project work.
 | Project | What it shows |
 |---|---|
 | **[mirror-ball](https://github.com/dsmurl/mirror-ball)** | A whole system: Nx monorepo, React + Bun, Zod schemas shared across the wire, and Pulumi standing up S3, CloudFront, Cognito, DynamoDB and App Runner |
-| **[job-vault-mobile](https://github.com/dsmurl/job-vault-mobile)** | Local-first mobile — React Native and Expo over on-device SQLite, no server, no telemetry |
-| **[cat-scan](https://github.com/dsmurl/cat-scan)** | A small CLI I actually [published to npm](https://www.npmjs.com/package/cat-scan): leave tagged notes in code comments, get them back grouped by tag |
+| **[marble-fighter](https://github.com/dsmurl/marble-fighter)** | 3D physics in the browser — Babylon.js and Havok driven from plain TypeScript, no editor or engine lock-in — [live demo](https://marble-fighter.vercel.app) |
 | **[ollama-next](https://github.com/dsmurl/ollama-next)** | Next.js + tRPC chat UI driving locally hosted LLMs through Ollama |
-| **[x-state-wizard](https://github.com/dsmurl/x-state-wizard)** | A multi-step flow modeled properly as an XState machine, with tests — [live demo](https://dsmurl.github.io/x-state-wizard/) |
+| **[cat-scan](https://github.com/dsmurl/cat-scan)** | A small CLI I actually [published to npm](https://www.npmjs.com/package/cat-scan): leave tagged notes in code comments, get them back grouped by tag |
 | **[the-system-controller-4](https://github.com/dsmurl/the-system-controller-4)** | Python industrial control on a BeagleBone Black, provisioned with Ansible. From 2016, and still the thing I'm most pleased to have shipped |
+| **[job-vault-mobile](https://github.com/dsmurl/job-vault-mobile)** | Local-first mobile — React Native and Expo over on-device SQLite, no server, no telemetry |
 
 ## Stack
 
 **Languages** — TypeScript, JavaScript, Python, Ruby, Elixir, Java, PHP, C#
 
 **Front end** — React, Next.js, Vite, React Native/Expo, SolidJS, Vue/Nuxt, Tailwind, Radix UI,
-XState
+XState, Babylon.js
 
 **Back end** — Node, Bun, Express, tRPC, Drizzle, Prisma, SQLite/Turso, Supabase, Stripe
 
