@@ -42,10 +42,6 @@ XState
 
 **Testing** — Vitest, Jest, Testing Library
 
-## Elsewhere
-
-- [The Wanderers Guild](https://www.TheWanderersGuild.com)
-
 ---
 
 I have a bad habit of just microwaving yesterday's coffee, and I'm a dog person.
